@@ -52,7 +52,7 @@ class SavedBooks extends Component {
                     key={book._id}
                     src={book.src 
                       ? book.src 
-                      : "http://icons.iconarchive.com/icons/paomedia/small-n-flat/128/book-icon.png"}
+                      : "https://png2.kisspng.com/sh/2baac68f386449d620c608ce1cd68df3/L0KzQYi4UcI5N5IAUJGAYUHnRLe3VsU3P2gATpC8OEK7RIO8UME2OWI9T6I7MUS2RYW5TwBvbz==/5a1d4f06567796.3828425015118702143542.png"}
                     title={book.title
                       ? book.title
                       : "No Title Available"}
